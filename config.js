@@ -5,7 +5,7 @@
 const CONFIG = {
     // INFORMAÇÕES DO SERVIÇO
     servico: {
-        nome: 'Serviços Adicionais',
+        nome: 'Serviços Adicionais', 
         mensagemBoasVindas: `Conheça nossos serviços adicionais!<br />
         Além da assessoria completa para casamentos e 15 anos, 
         oferecemos soluções personalizadas para tornar seu evento 
