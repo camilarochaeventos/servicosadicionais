@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const pdfIframe = document.getElementById('pdfIframe');
 
     btnVisualizar.addEventListener('click', function() {
-        const arquivoPDF = 'proposta.pdf';
+        const arquivoPDF = 'servicos.pdf';
         
         // VERIFICA SE É CELULAR
         const isMobile = window.innerWidth <= 768;

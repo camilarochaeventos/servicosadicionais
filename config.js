@@ -27,7 +27,7 @@ const CONFIG = {
 
     // ARQUIVO PDF
     pdf: {
-        arquivo: 'servicos-adicionais.pdf'
+        arquivo: 'servicos.pdf'
     },
 
     // TÍTULO DO SITE
